@@ -1,2 +1,2 @@
 # Todo-App
-To-do Application is a simple application to create and manage your to-do lists
+To-do Application is designed to help you streamline your daily tasks and boost your efficiency. With a simple interface, you can easily create and manage your to-do lists
