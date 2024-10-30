@@ -15,4 +15,4 @@ def write_todos(todos_arg,filepath='todo.txt'):
 
 
 if __name__=='__main__':
-    print('hellooo')
+    get_todos()
